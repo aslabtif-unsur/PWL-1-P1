@@ -1,0 +1,14 @@
+{
+  "name": "praktikum-tailwind-pwl1",
+  "version": "1.0.0",
+  "description": "opsional penjelasan mengenai projek tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ASLABTIF",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}
